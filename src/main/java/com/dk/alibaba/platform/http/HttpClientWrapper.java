@@ -52,6 +52,7 @@ public class HttpClientWrapper {
 
     /**
      * 使用默认的实例将采用允许所有SSL连接的方式
+     * fsdfsd
      */
     public static HttpClientWrapper INSTANCE = new HttpClientWrapper();
 
